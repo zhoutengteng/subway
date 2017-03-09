@@ -1,0 +1,40 @@
+﻿  stdafx.cpp
+  subwayCard.cpp
+  subwayCharge.cpp
+  cmdCreateCard.cpp
+  cmdDeductProc.cpp
+  cmdDestroyCard.cpp
+  cmdExpenditureDis.cpp
+  cmdFillCharge.cpp
+  cmdPassengerDis.cpp
+  cmdQueryHistory.cpp
+  cmdQueryLine.cpp
+  cmdReset.cpp
+  cmdSingleTicket.cpp
+  subwayCmdParse.cpp
+  subwayCreateCardProc.cpp
+  subwayDeductProc.cpp
+  subwayFillChargeProc.cpp
+  subwayQueryHistoryProc.cpp
+  subwayQueryLineProc.cpp
+  subwayResetProc.cpp
+  正在生成代码...
+  正在编译...
+  subwaySingleTicketProc.cpp
+  subwayCommonSplit.cpp
+  subwayCmdProc.cpp
+  subwayOutput.cpp
+  subwayError.cpp
+  subwayline.cpp
+  basePrice.cpp
+  deductPrice.cpp
+  subwaySocket.cpp
+  subwayExpenditureDistribute.cpp
+  subwayPassengerDistribute.cpp
+  subwaycard_test.cpp
+  subwayline_test.cpp
+  subwayprice_test.cpp
+  正在生成代码...
+stdafx.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  subwayCharge.vcxproj -> E:\华为软件训练营\华为实训\学员材料包C语言\学员材料包C语言\07.实战课程_C语言版\03_演练和实战工程\project\subwayCharge_student_01\LLT\subwayCharge.exe
+  subwayCharge.vcxproj -> E:\华为软件训练营\华为实训\学员材料包C语言\学员材料包C语言\07.实战课程_C语言版\03_演练和实战工程\project\subwayCharge_student_01\LLT\subwayCharge.pdb (Full PDB)
